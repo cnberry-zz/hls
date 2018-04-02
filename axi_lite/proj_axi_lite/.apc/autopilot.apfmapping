@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="example.cpp" path="/slowfs/sbg_builds19/berry/git/verilog/clkdiv/axi_lite/example.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="example_test.cpp" path="/slowfs/sbg_builds19/berry/git/verilog/clkdiv/axi_lite/example_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="convolution.cpp" path="/slowfs/sbg_builds19/berry/git/verilog/clkdiv/2D_convolution_with_linebuffer/convolution.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="convolution_test.cpp" path="/slowfs/sbg_builds19/berry/git/verilog/clkdiv/2D_convolution_with_linebuffer/convolution_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
